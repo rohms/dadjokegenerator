@@ -1,4 +1,4 @@
-# dad joke generator
+# Dad joke generator
 
 ![image](https://user-images.githubusercontent.com/86847314/159776006-1e514e86-bdee-4152-a3f6-f7f604bb1cf2.png)
 
